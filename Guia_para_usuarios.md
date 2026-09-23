@@ -107,6 +107,9 @@ Complete manualmente los campos de **Destinatario**, **Organización**, **Calle,
 
 Revise que la dirección permita localizar el lugar de entrega y que los datos de contacto sean correctos.
 
+
+> **Nota:** El campo **COTIZACIÓN NO** será completado por nuestro equipo de ventas. Deje este campo en blanco.
+
 ### 3.3. Completar los datos de facturación
 
 ![Apartado de datos de facturación de la plantilla](https://github.com/user-attachments/assets/2149fb8e-1042-4821-8ab6-78e57c65843a)
