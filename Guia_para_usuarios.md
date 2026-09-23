@@ -99,6 +99,8 @@ Capture manualmente los siguientes datos obligatorios:
 - Organización.
 - Departamento/Laboratorio.
 
+> **Nota:** El campo **COTIZACIÓN NO** será completado por nuestro equipo de ventas. Deje este campo en blanco.
+
 **Datos de envío**
 
 ![Apartado de datos de envío de la plantilla](https://github.com/user-attachments/assets/354781de-5128-4ffd-9cdc-971eb0e23008)
@@ -107,8 +109,6 @@ Complete manualmente los campos de **Destinatario**, **Organización**, **Calle,
 
 Revise que la dirección permita localizar el lugar de entrega y que los datos de contacto sean correctos.
 
-
-> **Nota:** El campo **COTIZACIÓN NO** será completado por nuestro equipo de ventas. Deje este campo en blanco.
 
 ### 3.3. Completar los datos de facturación
 
