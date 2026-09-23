@@ -18,6 +18,8 @@ Para evitar errores o retrasos, ingrese información completa y precisa en los c
 | Organización | Empresa, universidad, laboratorio o institución a la que pertenece el solicitante. | ITESI |
 | Departamento/Laboratorio | Área de la organización a la que pertenece el solicitante. | Laboratorio de diversidad e interacción microbiana |
 
+> **Nota:** El campo **N.º de cotización** será completado por nuestro equipo de ventas. Deje este campo en blanco.
+
 ### 2.2. Datos de envío
 
 | Campo | Descripción |
