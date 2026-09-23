@@ -14,7 +14,7 @@ Para evitar errores o retrasos, ingrese información completa y precisa en los c
 
 | Campo | Descripción | Ejemplo |
 | --- | --- | --- |
-| Solicitante | Nombre completo de la persona que solicita la cotización o el producto. | Ivonne Zavala García |
+| Solicitante | Nombre completo de la persona que solicita la cotización o el producto. | Ivonne Zavala |
 | Organización | Empresa, universidad, laboratorio o institución a la que pertenece el solicitante. | ITESI |
 | Departamento/Laboratorio | Área de la organización a la que pertenece el solicitante. | Laboratorio de diversidad e interacción microbiana |
 
