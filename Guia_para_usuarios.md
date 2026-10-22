@@ -29,7 +29,6 @@ Para evitar errores o retrasos, ingrese información completa y precisa en los c
 | Ciudad y estado | Ciudad y entidad federativa correspondientes al domicilio de entrega. |
 | Código postal | Código postal del domicilio de entrega. |
 | Teléfono de contacto | Número de contacto de la persona que recibirá el producto. Para números nacionales de México, capture los 10 dígitos. |
-| E-MAIL para recepción del certificado de análisis | Correo electrónico vigente donde se recibirá el certificado de análisis. |
 
 **Ejemplo de domicilio:** Carretera Irapuato-Silao, kilómetro 12.5, Comunidad El Copal, C.P. 36821, Irapuato, Guanajuato. Edificio F, Laboratorio LDIM.
 
@@ -205,7 +204,7 @@ Si el mensaje señala información incompleta o incorrecta:
 2. Revise el campo o la fila indicados en el mensaje, si se especifican.
 3. Compruebe los datos obligatorios y las opciones seleccionadas en los desplegables.
 4. Verifique la secuencia y las características del producto conforme a esta guía.
-5. Corrija la información, guarde el archivo y vuelva a cargarlo y enviarlo.
+5. Corrija la información, guarde el archivo, vuelva a cargarlo y enviarlo.
 
 ### 5.2. Solicitar soporte
 
@@ -224,8 +223,11 @@ Después de enviar la solicitud, revise las notificaciones relacionadas con su p
 
 El documento denominado **“ticket de compra”** confirma el procesamiento de la solicitud y presenta el desglose de costos de los productos cotizados. Su recepción, por sí sola, no acredita que el pago se haya realizado.
 
+Ejemplo:
+
 ![Ejemplo del ticket con el desglose de costos](https://github.com/user-attachments/assets/bf18f378-d7ab-43d4-a54c-cdd1a7df7e56)
 
+**Información contenida en el ticket de compra**
 | Dato | Descripción |
 | --- | --- |
 | ID de operación | Identificador único que permite dar seguimiento a la solicitud. |
@@ -253,9 +255,11 @@ El correo adjunta un archivo de Excel con el desglose de la cotización, los pre
 
 BLAST (*Basic Local Alignment Search Tool*) es una herramienta bioinformática que compara secuencias e identifica regiones de similitud. En este proceso, las secuencias enviadas se comparan con la base de datos utilizada por la plataforma.
 
-Cuando se identifica una coincidencia que requiere revisión, el correo puede incluir el nombre de la secuencia, su identificador interno, las métricas del alineamiento y un archivo con el resultado del análisis.
+* Cuando se identifica una coincidencia que requiere revisión, el correo puede incluir el nombre de la secuencia, su identificador interno, las métricas del alineamiento y un archivo con el resultado del análisis.
 
-**Cómo interpretar las métricas**
+* Solamente se le notificara al usuario cundo exista alguna similitud de la secuencia ingresada con la base de datos utilizada por la plataforma., en caso de no recibir esta notificación se debe asumir que no se identifico ninguna similitud de su secuencia en la base de datos.
+
+**Interpretación de las métricas**
 
 | Métrica | Significado |
 | --- | --- |
