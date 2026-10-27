@@ -223,7 +223,7 @@ Después de enviar la solicitud, revise las notificaciones relacionadas con su p
 
 El documento denominado **“ticket de compra”** confirma el procesamiento de la solicitud y presenta el desglose de costos de los productos cotizados. Su recepción, por sí sola, no acredita que el pago se haya realizado.
 
-Ejemplo:
+**Ejemplo:**
 
 ![Ejemplo del ticket con el desglose de costos](https://github.com/user-attachments/assets/bf18f378-d7ab-43d4-a54c-cdd1a7df7e56)
 
@@ -292,7 +292,7 @@ El equipo evaluará la viabilidad de la síntesis y determinará las acciones co
 
 Para resolver dudas sobre el llenado, la cotización o los mensajes de la plataforma, escriba a:
 
-- **Ventas:** ventas@t4oligo.com
-- **Soporte:** biodata@itrasig.org
+- **Ventas:** 
+- **Soporte:** 
 
 Si su solicitud ya cuenta con un **ID de operación**, inclúyalo en el mensaje para facilitar el seguimiento.
