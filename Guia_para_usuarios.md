@@ -172,6 +172,7 @@ Para estos productos, únicamente será necesario completar los siguientes campo
 - **Nombre de la secuencia:** ingresar manualmente.
 - **Secuencia 5' a 3':** ingresar manualmente.
 
+
 > **¡Importante!** Para estos productos, todos los demás campos serán establecidos automáticamente por la plataforma como “No”. Esto permitirá realizar correctamente la identificación y validación de la solicitud con la base de datos interna (BLAST).
 
 ### 3.6. Guardar, cargar y enviar la solicitud
@@ -291,7 +292,7 @@ BLAST (*Basic Local Alignment Search Tool*) es una herramienta bioinformática q
 
 * Solamente se le notificara al usuario cundo exista alguna similitud de la secuencia ingresada con la base de datos utilizada por la plataforma., en caso de no recibir esta notificación se debe asumir que no se identifico ninguna similitud de su secuencia en la base de datos.
 
-**Interpretación de las métricas**
+**Interpretación de las métricas:**
 
 | Métrica | Significado |
 | --- | --- |
@@ -301,7 +302,7 @@ BLAST (*Basic Local Alignment Search Tool*) es una herramienta bioinformática q
 | Expect (E) value | Número esperado de coincidencias con una puntuación igual o mayor que podrían obtenerse por azar en una búsqueda de esas características. |
 | Bit score | Puntuación normalizada del alineamiento; los valores mayores representan una puntuación más alta. |
 
-**Ejemplo presentado en la guía**
+**Ejemplo presentado en la guía:**
 
 ![Ejemplo de notificación con un alineamiento de secuencia relacionado con HBV](https://github.com/user-attachments/assets/ffe95c73-844d-4472-b4d6-1363aab36230)
 
