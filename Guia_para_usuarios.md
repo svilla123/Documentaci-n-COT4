@@ -82,7 +82,9 @@ Para evitar errores o retrasos, ingrese información completa y precisa en los c
 
 ### 3.1. Descargar la plantilla
 
+<p align="justify">
 Ingrese al portal y seleccione **“Descargar plantilla”**. Abra el archivo descargado en Excel para completar los apartados de datos del solicitante, envío, facturación y características de los productos.
+</p>
 
 ![Portal del cotizador y opción para descargar la plantilla](https://github.com/user-attachments/assets/3960cd46-1c4b-4145-9d6b-7355545f3fde)
 
@@ -232,7 +234,7 @@ Si el error persiste o el mensaje no permite identificar la causa, contacte al e
 
 - **ventas@t4mexico.com**
 - **biodata@itrasig.org**
-- 
+
 <p align="justify">
 Incluya el texto del error o una captura de pantalla, el nombre del archivo enviado y el ID de operación, si dispone de él. No todos los errores se deben al llenado de la plantilla; el mensaje debe orientar la revisión.
 </p>
@@ -269,9 +271,11 @@ El documento denominado **“ticket de compra”** confirma el procesamiento de 
 
 Este correo incluye los detalles de la cotización y la información para proceder con el pago:
 
+
 - **Fecha de registro:** fecha en que se registró la solicitud.
 - **Hora sugerida de pago:** referencia indicada en el correo para realizar el pago. Revise las condiciones de vigencia de la cotización; si el mensaje establece una fecha u hora límite, respete ese plazo para evitar la necesidad de solicitar una actualización.
 - **Fecha estimada de envío:** fecha prevista para despachar el producto. No equivale necesariamente a la fecha de entrega en el domicilio.
+
 
 El correo adjunta un archivo de Excel con el desglose de la cotización, los precios unitarios y totales, la opción de pago seleccionada y los datos bancarios correspondientes, como número de cuenta y CLABE cuando aplique.
 
@@ -323,7 +327,7 @@ El equipo evaluará la viabilidad de la síntesis y determinará las acciones co
 ## 7. Contacto
 
 Para resolver dudas sobre el llenado, la cotización o los mensajes de la plataforma, escriba a:
-- **ventas@t4mexico.com**
+- **Ventas:ventas@t4mexico.com**
 - **Soporte:biodata@itrasig.org**
 
 Si su solicitud ya cuenta con un **ID de operación**, incluirlo en el mensaje para facilitar el seguimiento.
