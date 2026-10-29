@@ -64,7 +64,7 @@ Para evitar errores o retrasos, ingrese información completa y precisa en los c
 
 **Códigos degenerados:** cuando la secuencia contenga posiciones ambiguas, utilice los códigos admitidos por la plantilla, como N, K o R. Ejemplo de una secuencia de ADN con un código degenerado: `AGTGATCGATNCGTAGCTAGCTAGT`.
 
-**Productos disponibles en la plantilla descrita:**
+**Productos disponibles:**
 
 | Producto | Referencia |
 | --- | --- |
@@ -88,7 +88,9 @@ Ingrese al portal y seleccione **“Descargar plantilla”**. Abra el archivo de
 
 ![Portal del cotizador y opción para descargar la plantilla](https://github.com/user-attachments/assets/3960cd46-1c4b-4145-9d6b-7355545f3fde)
 
+
 **Formato de solicitud**
+
 
 ![Vista general del formato de solicitud](https://github.com/user-attachments/assets/9f1200d8-7a70-4a5b-b367-47c504f2cc17)
 
@@ -302,7 +304,7 @@ BLAST (*Basic Local Alignment Search Tool*) es una herramienta bioinformática q
 | Expect (E) value | Número esperado de coincidencias con una puntuación igual o mayor que podrían obtenerse por azar en una búsqueda de esas características. |
 | Bit score | Puntuación normalizada del alineamiento; los valores mayores representan una puntuación más alta. |
 
-**Ejemplo presentado en la guía:**
+**Ejemplo:**
 
 ![Ejemplo de notificación con un alineamiento de secuencia relacionado con HBV](https://github.com/user-attachments/assets/ffe95c73-844d-4472-b4d6-1363aab36230)
 
@@ -328,7 +330,8 @@ El equipo evaluará la viabilidad de la síntesis y determinará las acciones co
 ## 7. Contacto
 
 Para resolver dudas sobre el llenado, la cotización o los mensajes de la plataforma, escriba a:
-- **Ventas:ventas@t4mexico.com**
-- **Soporte:biodata@itrasig.org**
+- **Ventas: ventas@t4mexico.com**
+- **Soporte: biodata@itrasig.org**
 
 Si su solicitud ya cuenta con un **ID de operación**, incluirlo en el mensaje para facilitar el seguimiento.
+
