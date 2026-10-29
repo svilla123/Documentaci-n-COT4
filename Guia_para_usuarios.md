@@ -104,7 +104,7 @@ La plantilla contiene campos de captura manual, listas desplegables y campos aut
 
 Capture manualmente los siguientes datos obligatorios:
 
-- Nombre del solicitante.
+-  Nombre del solicitante.
 - Organización.
 - Departamento/Laboratorio.
 
@@ -173,7 +173,6 @@ Para estos productos, únicamente será necesario completar los siguientes campo
 - **Producto:** seleccionar una opción del menú desplegable.
 - **Nombre de la secuencia:** ingresar manualmente.
 - **Secuencia 5' a 3':** ingresar manualmente.
-
 
 > **¡Importante!** Para estos productos, todos los demás campos serán establecidos automáticamente por la plataforma como “No”. Esto permitirá realizar correctamente la identificación y validación de la solicitud con la base de datos interna (BLAST).
 
