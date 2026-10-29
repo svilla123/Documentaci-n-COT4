@@ -297,4 +297,4 @@ Para resolver dudas sobre el llenado, la cotización o los mensajes de la plataf
 - **Ventas:** 
 - **Soporte:** 
 
-Si su solicitud ya cuenta con un **ID de operación**, inclúyalo en el mensaje para facilitar el seguimiento.
+Si su solicitud ya cuenta con un **ID de operación**, incluirlo en el mensaje para facilitar el seguimiento.
