@@ -190,7 +190,11 @@ Si el archivo se carga correctamente, aparece el mensaje **“Archivo [Nombre de
 
 La confirmación de carga indica que el archivo fue recibido. No debe interpretarse por sí sola como confirmación de compra ni de cotización finalizada.
 
-Si ocurre un error durante la carga o el procesamiento, aparece un aviso amarillo con su descripción y, cuando corresponda, el nombre del error.
+Si ocurre un error durante la carga o el procesamiento, aparece un aviso amarillo con su descripción y, cuando corresponda, el nombre del error como se muestra en la siguiente imagen:
+
+<img width="1674" height="827" alt="imagen" src="https://github.com/user-attachments/assets/0fad858d-a1bb-48de-a649-794a058e931a" />
+
+
 
 Al finalizar el proceso, la interfaz regresa a su estado inicial y la animación recupera su velocidad lenta. Revise el mensaje mostrado para conocer el resultado.
 
@@ -212,7 +216,7 @@ Si el mensaje señala información incompleta o incorrecta:
 
 Si el error persiste o el mensaje no permite identificar la causa, contacte al equipo de soporte:
 
-- **ventas@t4oligo.com**
+- **ventas@t4mexico.com**
 - **biodata@itrasig.org**
 
 Incluya el texto del error o una captura de pantalla, el nombre del archivo enviado y el ID de operación, si dispone de él. No todos los errores se deben al llenado de la plantilla; el mensaje debe orientar la revisión.
@@ -293,8 +297,7 @@ El equipo evaluará la viabilidad de la síntesis y determinará las acciones co
 ## 7. Contacto
 
 Para resolver dudas sobre el llenado, la cotización o los mensajes de la plataforma, escriba a:
-
-- **Ventas:** 
-- **Soporte:** 
+- **ventas@t4mexico.com**
+- **Soporte:biodata@itrasig.org**
 
 Si su solicitud ya cuenta con un **ID de operación**, incluirlo en el mensaje para facilitar el seguimiento.
