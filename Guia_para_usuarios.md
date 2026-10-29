@@ -82,6 +82,8 @@ Ingrese al portal y seleccione **“Descargar plantilla”**. Abra el archivo de
 
 ![Portal del cotizador y opción para descargar la plantilla](https://github.com/user-attachments/assets/3960cd46-1c4b-4145-9d6b-7355545f3fde)
 
+**Formato de solicitud**
+
 ![Vista general del formato de solicitud](https://github.com/user-attachments/assets/9f1200d8-7a70-4a5b-b367-47c504f2cc17)
 
 La plantilla contiene campos de captura manual, listas desplegables y campos automáticos. Complete cada uno según las indicaciones siguientes.
@@ -227,7 +229,7 @@ El documento denominado **“ticket de compra”** confirma el procesamiento de 
 
 ![Ejemplo del ticket con el desglose de costos](https://github.com/user-attachments/assets/bf18f378-d7ab-43d4-a54c-cdd1a7df7e56)
 
-**Información contenida en el ticket de compra**
+**Información contenida en el ticket de compra:**
 | Dato | Descripción |
 | --- | --- |
 | ID de operación | Identificador único que permite dar seguimiento a la solicitud. |
