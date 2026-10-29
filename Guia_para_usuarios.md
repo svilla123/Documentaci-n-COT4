@@ -2,10 +2,14 @@
 
 ## 1. Descripción de la plataforma
 
+<p align="justify">
 La plataforma permite solicitar cotizaciones de oligonucleótidos y otros productos de síntesis mediante una plantilla de Excel. El usuario completa los datos de la solicitud, carga el archivo en el portal y lo envía para su procesamiento.
+</p>
 
+<p align="justify">
 Los productos compatibles con la cotización automática se procesan mediante el sistema. Algunos productos requieren una cotización manual por parte del equipo de ventas; estas excepciones se describen en la sección 3.5.
-
+</p>
+  
 Para evitar errores o retrasos, ingrese información completa y precisa en los campos que correspondan a su solicitud.
 
 ## 2. Guía de campos
@@ -106,7 +110,9 @@ Capture manualmente los siguientes datos obligatorios:
 
 ![Apartado de datos de envío de la plantilla](https://github.com/user-attachments/assets/354781de-5128-4ffd-9cdc-971eb0e23008)
 
+<p align="justify">
 Complete manualmente los campos de **Destinatario**, **Organización**, **Calle, número, colonia y referencias adicionales sobre el domicilio**, **Ciudad y estado**, **Código postal**, **Teléfono de contacto** y **E-MAIL para recepción del certificado de análisis**.
+</p>
 
 Revise que la dirección permita localizar el lugar de entrega y que los datos de contacto sean correctos.
 
@@ -117,7 +123,9 @@ Revise que la dirección permita localizar el lugar de entrega y que los datos d
 
 Capture manualmente **Razón social**, **RFC**, **Dirección fiscal** y **E-MAIL para recepción de factura**.
 
+<p align="justify">
 Seleccione **Régimen fiscal**, **Uso del CFDI**, **Forma de pago** y **Método de pago** mediante las listas desplegables. Verifique que los datos correspondan al receptor de la factura.
+</p>
 
 ### 3.4. Especificar el producto y sus características
 
@@ -148,7 +156,9 @@ Complete cada fila con los datos del producto solicitado. Para T4BRICK™, T4GEN
 - 3'Biotina, 3'Fosfato, 3'Amino C3, 3'SPACER C3, 3'SPACER C6 y 3'Tiol C6.
 - T(BHQ1)/3'BHQ1, T(BHQ2)/3'BHQ1, T(BHQ1)/3'SPACER C3, T(BHQ1)/3'SPACER C6, T(BHQ1)/3'BHQ2, T(BHQ2)/3'BHQ2, T(BHQ2)/3'SPACER C3 y T(BHQ2)/3'SPACER C6.
 
+<p align="justify">
 Seleccione las denominaciones tal como aparecen en la lista desplegable. Las combinaciones que incluyen modificaciones internas deben solicitarse mediante la opción correspondiente del catálogo.
+</p>
 
 ### 3.5. Productos sujetos a cotización manual
 
@@ -171,7 +181,9 @@ Para estos productos, únicamente será necesario completar los siguientes campo
 
 ## 4. Comportamiento de la interfaz
 
+<p align="justify">
 El fondo de la interfaz muestra las letras **A**, **T**, **C** y **G** mediante una animación lenta. Durante el envío, estos elementos funcionan como indicadores visuales de actividad.
+</p>
 
 ### 4.1. Procesamiento en curso
 
@@ -190,7 +202,9 @@ Si el archivo se carga correctamente, aparece el mensaje **“Archivo [Nombre de
 
 La confirmación de carga indica que el archivo fue recibido. No debe interpretarse por sí sola como confirmación de compra ni de cotización finalizada.
 
+<p align="justify">
 Si ocurre un error durante la carga o el procesamiento, aparece un aviso amarillo con su descripción y, cuando corresponda, el nombre del error como se muestra en la siguiente imagen:
+</p>
 
 <img width="1674" height="827" alt="imagen" src="https://github.com/user-attachments/assets/0fad858d-a1bb-48de-a649-794a058e931a" />
 
@@ -218,16 +232,22 @@ Si el error persiste o el mensaje no permite identificar la causa, contacte al e
 
 - **ventas@t4mexico.com**
 - **biodata@itrasig.org**
-
+- 
+<p align="justify">
 Incluya el texto del error o una captura de pantalla, el nombre del archivo enviado y el ID de operación, si dispone de él. No todos los errores se deben al llenado de la plantilla; el mensaje debe orientar la revisión.
+</p>
 
 ## 6. Notificaciones por correo electrónico
 
+<p align="justify">
 Después de enviar la solicitud, revise las notificaciones relacionadas con su procesamiento. A continuación se describen los tres tipos de comunicación contemplados en esta guía. Su recepción depende del estado de la solicitud; no representan necesariamente tres resultados excluyentes.
+</p>
 
 ### 6.1. Ticket de compra: desglose de la solicitud
 
+<p align="justify">
 El documento denominado **“ticket de compra”** confirma el procesamiento de la solicitud y presenta el desglose de costos de los productos cotizados. Su recepción, por sí sola, no acredita que el pago se haya realizado.
+</p>
 
 **Ejemplo:**
 
@@ -259,7 +279,9 @@ El correo adjunta un archivo de Excel con el desglose de la cotización, los pre
 
 **¿Qué es BLAST?**
 
+<p align="justify">
 BLAST (*Basic Local Alignment Search Tool*) es una herramienta bioinformática que compara secuencias e identifica regiones de similitud. En este proceso, las secuencias enviadas se comparan con la base de datos utilizada por la plataforma.
+</p>
 
 * Cuando se identifica una coincidencia que requiere revisión, el correo puede incluir el nombre de la secuencia, su identificador interno, las métricas del alineamiento y un archivo con el resultado del análisis.
 
@@ -286,13 +308,17 @@ El ejemplo describe una coincidencia con una secuencia de referencia relacionada
 - **E-value:** `5e-06`, equivalente a 0.000005 coincidencias esperadas por azar con una puntuación igual o mayor bajo las condiciones de la búsqueda.
 - **Bit score:** 37.4 bits.
 
+<p align="justify">
 La interpretación requiere considerar conjuntamente la identidad, la cobertura, la longitud de la secuencia y la base de datos consultada. Una coincidencia no constituye por sí sola una identificación concluyente del origen de la secuencia ni un diagnóstico.
+</p>
 
 **¿Qué debe hacer el usuario?**
 
 Si recibe un correo con el asunto **“secuencia_detectadas_sector_salud”**, la solicitud requiere revisión por parte del área técnica de Síntesis.
 
+<p align="justify">
 El equipo evaluará la viabilidad de la síntesis y determinará las acciones correspondientes. Posteriormente, se pondrá en contacto con el cliente. Esta notificación corresponde a una revisión técnica y no implica, por sí misma, que la plantilla se haya llenado incorrectamente.
+</p>
 
 ## 7. Contacto
 
